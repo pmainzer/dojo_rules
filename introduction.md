@@ -1,1 +1,1 @@
-I love Ruby and JavaScript!/nSkills:/n* Git/n* Javascript/n* Ruby
+I love Ruby and JavaScript!/nSkills:/n* Git/n* Javascript/n* Ruby/n* Killing history using git rebase
