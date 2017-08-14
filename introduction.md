@@ -1,1 +1,1 @@
-I love Ruby and JavaScript!
+I love Ruby and JavaScript!/nSkills:/n* Git/n* Javascript/n* Ruby
